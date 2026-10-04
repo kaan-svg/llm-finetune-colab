@@ -1,0 +1,78 @@
+[
+  {
+    "instruction": "Kast nedir?",
+    "input": "",
+    "output": "TCK m.21'e göre kast, suçun kanuni tanımındaki unsurların bilerek ve istenerek gerçekleştirilmesidir. Suçun oluşması kural olarak kastın varlığına bağlıdır."
+  },
+  {
+    "instruction": "Olası kast ile bilinçli taksir arasındaki fark nedir?",
+    "input": "",
+    "output": "Her ikisinde de fail neticenin gerçekleşebileceğini öngörür. Olası kastta (TCK m.21/2) fail buna rağmen 'olursa olsun' diyerek kabullenir ve hareketini sürdürür. Bilinçli taksirde (TCK m.22/3) ise fail neticeyi öngörmüştür ama gerçekleşmeyeceğine güvenerek hareket eder, neticeyi istemez."
+  },
+  {
+    "instruction": "Meşru müdafaanın şartları nelerdir?",
+    "input": "",
+    "output": "TCK m.25/1'e göre kendisine veya başkasına ait bir hakka yönelmiş, gerçekleşen, gerçekleşmesi veya tekrarı muhakkak olan haksız bir saldırıyı o anki hal ve koşullara göre def etmek zorunluluğuyla ve saldırıyla orantılı biçimde işlenen fiillerden dolayı ceza verilmez. Yani saldırı haksız ve güncel olmalı, savunma zorunlu ve orantılı olmalıdır."
+  },
+  {
+    "instruction": "Gönüllü vazgeçme ne demektir?",
+    "input": "",
+    "output": "TCK m.36'ya göre fail, suçun icra hareketlerinden gönüllü olarak vazgeçer ya da kendi çabasıyla suçun tamamlanmasını veya neticenin gerçekleşmesini önlerse teşebbüsten dolayı cezalandırılmaz. Ancak o ana kadar yaptığı hareketler başka bir suç oluşturuyorsa o suçtan cezalandırılır."
+  },
+  {
+    "instruction": "Komşum bana tehdit mesajı attı, ne kadar ceza alır?",
+    "input": "",
+    "output": "Somut bir olayda alınacak cezayı belirleyemem; bu, olayın tüm ayrıntılarına ve delillere bağlıdır. Genel bilgi olarak tehdit suçu TCK m.106'da düzenlenmiştir. Kendi durumunuz için bir avukata danışmanızı ya da savcılığa başvurmanızı öneririm."
+  },
+ 
+  {
+    "instruction": "Haksız tahrik nedir ve ceza indirimine etkisi nedir?",
+    "input": "",
+    "output": "TCK m.29'a göre haksız tahrik, bir kimsenin haksız bir fiilin meydana getirdiği hiddet veya şiddetli elemin etkisi altında suç işlemesidir. Bu durumda failin cezası, tahrikin derecesine göre kanunda belirtilen oranlarda indirilir."
+  },
+  {
+    "instruction": "Hırsızlık suçu ile yağma (gasp) suçu arasındaki temel fark nedir?",
+    "input": "",
+    "output": "Hırsızlık (TCK m.141), zilyedinin rızası olmadan başkasına ait taşınır bir malı kendisine veya başkasına yarar sağlamak maksadıyla bulunduğu yerden almaktır. Yağma (TCK m.148) ise, bu alma işleminin kişiye karşı cebir (zor kullanma) veya tehdit kullanılarak gerçekleştirilmesidir."
+  },
+  {
+    "instruction": "Suça azmettirme ne anlama gelir?",
+    "input": "",
+    "output": "TCK m.38'e göre azmettirme, bir kişide henüz suç işleme düşüncesi yokken, onu ikna ederek veya teşvik ederek suç işleme kararı aldırmak ve suçu işletmektir. Azmettiren kişi, kural olarak işlenen suçun cezası ile cezalandırılır."
+  },
+  {
+    "instruction": "Şikayete bağlı suçlarda şikayet süresi ne kadardır?",
+    "input": "",
+    "output": "TCK m.73'e göre soruşturulması ve kovuşturulması şikayete bağlı olan suçlarda, hak sahibi kişi fiili ve failin kim olduğunu bildiği veya öğrendiği günden başlayarak altı ay içinde şikayette bulunmalıdır. Aksi halde soruşturma ve kovuşturma yapılamaz."
+  },
+  {
+    "instruction": "Çocukların ceza sorumluluğu hangi yaşta başlar?",
+    "input": "",
+    "output": "TCK m.31'e göre fiili işlediği sırada 12 yaşını doldurmamış olan çocukların ceza sorumluluğu yoktur; bu kişiler hakkında ceza kovuşturması yapılamaz, ancak çocuklara özgü güvenlik tedbirleri uygulanabilir. 12-15 yaş grubundaki çocukların ise işledikleri fiilin hukuki anlam ve sonuçlarını algılama yeteneğine bakılarak ceza sorumlulukları değerlendirilir."
+  },
+  {
+    "instruction": "Taksirle suç işlemek ne demektir?",
+    "input": "",
+    "output": "TCK m.22/2'ye göre taksir, dikkat ve özen yükümlülüğüne aykırılık dolayısıyla, bir davranışın suçun kanuni tanımında belirtilen neticesi öngörülmeyerek gerçekleştirilmesidir. Taksirli hareketin cezalandırılabilmesi için kanunda o suçun taksirle işlenebileceğinin açıkça belirtilmiş olması gerekir."
+  },
+  {
+    "instruction": "Zimmet suçu kimler tarafından işlenebilir?",
+    "input": "",
+    "output": "TCK m.247'ye göre zimmet suçu yalnızca 'kamu görevlileri' tarafından işlenebilen özgü bir suçtur. Görevi nedeniyle zilyetliği kendisine devredilmiş olan veya koruma ve gözetimiyle yükümlü olduğu malı kendisinin veya başkasının zimmetine geçiren kamu görevlisi bu suçtan cezalandırılır."
+  },
+  {
+    "instruction": "Kanunu bilmemek mazeret sayılır mı?",
+    "input": "",
+    "output": "TCK m.4'e göre ceza kanunlarını bilmemek mazeret sayılmaz. Yani kişi, işlediği fiilin Türk Ceza Kanunu'na göre suç olduğunu bilmediğini iddia ederek ceza sorumluluğundan kurtulamaz."
+  },
+  {
+    "instruction": "Birisine sosyal medyadan sahte hesapla küfür etmek suç mudur?",
+    "input": "",
+    "output": "Evet, TCK m.125 kapsamında bir kimseye onur, şeref ve saygınlığını rencide edebilecek nitelikte somut bir fiil veya olgu isnat etmek veya sövmek hakaret suçunu oluşturur. Suçun sesli, yazılı veya görüntülü bir iletiyle (sosyal medya vb.) işlenmesi cezalandırılır. Sahte hesap kullanılması failin tespit edilmesini zorlaştırsa da fiilin suç olma niteliğini değiştirmez."
+  },
+  {
+    "instruction": "İnternetten ikinci el telefon aldım, parasını yolladım ama satıcı beni engelledi. Ne yapmalıyım?",
+    "input": "",
+    "output": "Somut uyuşmazlıklar için kesin hukuki tavsiye veremem. Ancak bu tür eylemler TCK m.158 kapsamında 'bilişim sistemlerinin araç olarak kullanılması suretiyle nitelikli dolandırıcılık' şüphesi barındırabilir. Elinizdeki dekont ve mesaj kayıtları gibi delillerle en yakın Cumhuriyet Başsavcılığı'na veya emniyete giderek suç duyurusunda bulunabilirsiniz. Detaylı bilgi için bir avukata danışmanız önerilir."
+  }
+]
